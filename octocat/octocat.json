@@ -5,11 +5,13 @@
     { "name": "Tricat", "role": "Pilot" },
     { "name": "Quadcat", "role": "Navigator" },
     { "name": "Pentcat", "role": "Technician" },
+    { "name": "Augustcat1", "role": "Explorer" },
+    { "name": "Augustcat2", "role": "Navigator" },
+    { "name": "Augustcat3", "role": "Engineer" },
+    { "name": "Augustcat4", "role": "Scientist" },
     { "name": "Heptcat", "role": "Medic" },
     { "name": "Octodog", "role": "Security" },
     { "name": "Nonacat", "role": "Botanist" },
-    { "name": "Decacat", "role": "Geologist" },
-    { "name": "Unicat", "role": "Communications" },
     { "name": "Cometcat", "role": "Analyst" },
     { "name": "Trecat", "role": "Programmer" },
     { "name": "Quattuorcat", "role": "Designer" },
@@ -20,5 +22,11 @@
     { "name": "Novemcat", "role": "Advisor" },
     { "name": "Decemcat", "role": "Planner" },
     { "name": "Undecimcat", "role": "Strategist" },
-    { "name": "Quattuordecimcat", "role": "Archivist" }
+    { "name": "Quattuordecimcat", "role": "Archivist" },
+    { "name": "Augustcat5", "role": "Pilot" },
+    { "name": "Augustcat6", "role": "Technician" },
+    { "name": "Augustcat7", "role": "Medic" },
+    { "name": "Augustcat8", "role": "Security" },
+    { "name": "Augustcat9", "role": "Botanist" },
+    { "name": "Augustcat10", "role": "Geologist" }
 ]
