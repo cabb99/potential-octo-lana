@@ -1,0 +1,6 @@
+# star.txt
+# Information about stars
+
+Sirius is the brightest star in the night sky.
+Betelgeuse is a red supergiant in Orion.
+Vega is part of the Lyra constellation.

@@ -1,0 +1,5 @@
+[
+    { "name": "Alice", "role": "Commander" },
+    { "name": "Bob", "role": "Engineer" },
+    { "name": "Charlie", "role": "Scientist" }
+]
