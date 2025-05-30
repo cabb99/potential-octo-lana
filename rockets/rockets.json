@@ -4,19 +4,19 @@
     {"name": "Nebula Pouncer", "type": "Scout", "mission": "Star Survey", "galaxy": "Triangulum", "star": "Altair"},
     {"name": "Mission Whisker", "type": "Rescue", "mission": "Lost Astronaut", "galaxy": "Whiskeria", "star": "Betelgeuse"},
     {"name": "Galactic Tabby", "type": "Passenger", "mission": "Tour de Stars", "galaxy": "Cat's Eye", "star": "Rigel"},
+    {"name": "Pawsenger Shuttle", "type": "Passenger", "mission": "Galactic Cruise", "galaxy": "Auriga", "star": "Bellatrix"},
     {"name": "Starlight Sprinter", "type": "Racer", "mission": "Meteor Dash", "galaxy": "Pegasus", "star": "Deneb"},
     {"name": "Rocket Meow", "type": "Explorer", "mission": "Comet Chase", "galaxy": "Leo", "star": "Polaris"},
     {"name": "Astrocat Express", "type": "Cargo", "mission": "Moon Cheese Run", "galaxy": "Lynx", "star": "Capella"},
     {"name": "Cosmic Kitty", "type": "Research", "mission": "Dark Matter Hunt", "galaxy": "Ursa Major", "star": "Aldebaran"},
     {"name": "Purrpulsion X", "type": "Experimental", "mission": "Zero-G Yarn Test", "galaxy": "Felis", "star": "Procyon"},
     {"name": "Starstruck Sphinx", "type": "Luxury", "mission": "VIP Star Tour", "galaxy": "Sphinx", "star": "Antares"},
-    {"name": "Meteor Mouser", "type": "Interceptor", "mission": "Asteroid Defense", "galaxy": "Sagittarius", "star": "Spica"},
     {"name": "Rockettail", "type": "Explorer", "mission": "Edge of Universe", "galaxy": "Phoenix", "star": "Fomalhaut"},
     {"name": "Comet Chaser", "type": "Scout", "mission": "Comet Mapping", "galaxy": "Hydra", "star": "Mimosa"},
     {"name": "Lunar Lynx", "type": "Cargo", "mission": "Lunar Base Supply", "galaxy": "Lynx", "star": "Alnitak"},
     {"name": "Astro Whisker", "type": "Research", "mission": "Stellar DNA", "galaxy": "Gemini", "star": "Castor"},
-    {"name": "Pawsenger Shuttle", "type": "Passenger", "mission": "Galactic Cruise", "galaxy": "Auriga", "star": "Bellatrix"},
     {"name": "Rocket Nebula", "type": "Explorer", "mission": "Nebula Dive", "galaxy": "Orion", "star": "Saiph"},
     {"name": "Stellar Sprinter", "type": "Racer", "mission": "Star Circuit", "galaxy": "Canis Major", "star": "Sirius B"},
-    {"name": "Octocat's Dream", "type": "Flagship", "mission": "Intergalactic Unity", "galaxy": "Milky Way", "star": "Sol"}
+    {"name": "Octocat's Dream", "type": "Flagship", "mission": "Intergalactic Unity", "galaxy": "Milky Way", "star": "Sol"},
+    {"name": "Meteor Mouser", "type": "Interceptor", "mission": "Asteroid Defense", "galaxy": "Sagittarius", "star": "Spica"}
 ]
