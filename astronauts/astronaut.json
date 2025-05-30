@@ -1,8 +1,7 @@
-// astronaut.json
-// List of astronauts
-
 [
     { "name": "Alice", "role": "Commander" },
-    { "name": "Bob", "role": "Engineer" },
-    { "name": "Charlie", "role": "Scientist" }
+    { "name": "Bob", "role": "First Engineer" },
+    { "name": "Charlie", "role": "Scientist" },
+    { "name": "Octocat", "role": "Commander" },
+    { "name": "Monocat", "role": "Engineer" }
 ]
