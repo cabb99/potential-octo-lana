@@ -6,7 +6,6 @@
     {"name": "Galactic Tabby", "type": "Passenger", "mission": "Tour de Stars", "galaxy": "Cat's Eye", "star": "Rigel"},
     {"name": "Pawsenger Shuttle", "type": "Passenger", "mission": "Galactic Cruise", "galaxy": "Auriga", "star": "Bellatrix"},
     {"name": "Starlight Sprinter", "type": "Racer", "mission": "Meteor Dash", "galaxy": "Pegasus", "star": "Deneb"},
-    {"name": "Rocket Meow", "type": "Explorer", "mission": "Comet Chase", "galaxy": "Leo", "star": "Polaris"},
     {"name": "Astrocat Express", "type": "Cargo", "mission": "Moon Cheese Run", "galaxy": "Lynx", "star": "Capella"},
     {"name": "Cosmic Kitty", "type": "Research", "mission": "Dark Matter Hunt", "galaxy": "Ursa Major", "star": "Aldebaran"},
     {"name": "Purrpulsion X", "type": "Experimental", "mission": "Zero-G Yarn Test", "galaxy": "Felis", "star": "Procyon"},
@@ -18,5 +17,6 @@
     {"name": "Rocket Nebula", "type": "Explorer", "mission": "Nebula Dive", "galaxy": "Orion", "star": "Saiph"},
     {"name": "Stellar Sprinter", "type": "Racer", "mission": "Star Circuit", "galaxy": "Canis Major", "star": "Sirius B"},
     {"name": "Octocat's Dream", "type": "Flagship", "mission": "Intergalactic Unity", "galaxy": "Milky Way", "star": "Sol"},
-    {"name": "Meteor Mouser", "type": "Interceptor", "mission": "Asteroid Defense", "galaxy": "Sagittarius", "star": "Spica"}
+    {"name": "Meteor Mouser", "type": "Interceptor", "mission": "Asteroid Defense", "galaxy": "Sagittarius", "star": "Spica"},
+    {"name": "Shining Starliner", "type": "Explorer", "mission": "Illuminate the Cosmos", "galaxy": "Aurora", "star": "Lumina"}
 ]
