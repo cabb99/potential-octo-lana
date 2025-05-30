@@ -3,17 +3,15 @@
     { "name": "Monocat", "role": "Engineer" },
     { "name": "Hexcat", "role": "Scientist" },
     { "name": "Tricat", "role": "Pilot" },
-    { "name": "Quadcat", "role": "Navigator" },
     { "name": "Pentcat", "role": "Technician" },
     { "name": "Augustcat1", "role": "Explorer" },
+    { "name": "Septcat4", "role": "Scientist" },
     { "name": "Augustcat2", "role": "Navigator" },
-    { "name": "Augustcat3", "role": "Engineer" },
     { "name": "Augustcat4", "role": "Scientist" },
     { "name": "Heptcat", "role": "Medic" },
     { "name": "Nonacat", "role": "Botanist" },
     { "name": "Cometcat", "role": "Analyst" },
     { "name": "Trecat", "role": "Programmer" },
-    { "name": "Quattuorcat", "role": "Designer" },
     { "name": "Quinquecat", "role": "Operator" },
     { "name": "Lunacat", "role": "Chef" },
     { "name": "Septcat", "role": "Trainer" },
@@ -26,5 +24,8 @@
     { "name": "Augustcat6", "role": "Technician" },
     { "name": "Augustcat7", "role": "Medic" },
     { "name": "Augustcat9", "role": "Botanist" },
-    { "name": "Augustcat10", "role": "Geologist" }
+    { "name": "Augustcat10", "role": "Geologist" },
+    { "name": "Septcat1", "role": "Navigator" },
+    { "name": "Septcat2", "role": "Engineer" },
+    { "name": "Septcat3", "role": "Scientist" }
 ]
